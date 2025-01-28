@@ -1,0 +1,298 @@
+Python
+-------
+Why Python?
+
+Founder of Python
+------------------
+Guido Van Russum
+
+Python
+Perl	(Scripting tool - testing, automation, WEB (CGI PERL))
+TCL /  TK ( GUI Desktop)
+Ruby(ROR - MVC)
+Lua ( Embedded, faster than python)
+
+Go Lang
+Scala
+R
+
+Open Source Technologies
+------------------------
+source code is free of cost - anybody can contribute
+
+Versions
+--------
+2.x vs 3.x
+----------
+2.x
+print "Hello World"
+text = raw_input
+int = input
+
+3.x
+print("Hello World")
+text = input("")
+
+Uses of Python
+--------------
+Desktop App  ->  TK
+Web App      ->  MVC, Web Services, REST(Json) - FLASK, 		 Django, Pyramid, GeoDjango (Geopandas)
+
+Mobile	    ->  Kivy (mobile and Desktop)
+Testing     -> pytest, unittest, Selenium, Robo Framework
+Automation  -> paramiko (Network)
+
+Data Science
+------------
+Data visualization - numpy, Pandas, Matplotlib, Seaborn, Plotly
+
+Data Analytics - numpy, Pandas
+
+ML / AI
+-------
+ML -  
+
+
+Flavours of python
+-------------------
+1. CPython - currently using
+2. Jython - Python code converted to JAVA
+3. Iron Python - Work with dotnet libraries
+
+www.python.org
+
+IDE
+-----
+Python IDLE - Integrated Development Environment
+Notepad
+Notepad++
+
+PyCharm
+VSCode
+Eclipse (addon)
+sublime text
+
+GIT (Versioning)
+
+Python
+------
+Primitive data types
+Operators
+Loops and control structures
+
+Data Types
+----------
+1. Number
+	a. integer
+	b. float
+	c. complex 
+2. String
+3. Boolean
+
+install python 
+a. SDK
+b. Shell (Interactive Environment)
+c. IDLE (GUI)
+
+Two Operators Overloaded
+-------------------------
+Same operator different uses
+
++ = used for addition and concatenation
+* = used for multiplication and display a string number		 of times
+
+Data Types
+----------
+Number 
+in 2.x 
+a. integer
+b. long - 849283479823748923749871029381023L
+c. float
+d. complex
+
+in 3.x long datatype is deprecated (removed)
+support for long is still available
+
+Coding Rules
+------------
+#! - Shebang - specify the path of python executable
+
+Comments
+--------
+#  - is used for single line comments
+
+Strings are enclosed in 
+' ' or " " - single line string
+
+multiple line strings are enclosed in
+'''
+this is line1
+this is line2
+this is line3
+'''
+
+"""
+this is line1
+this is line2
+this is line3
+"""
+"this won't work"
+'This "\n" is a escape sequence'
+
+we don't depend on any kind of parenthesis for grouping a snippet of code
+parenthesis  - brackets  - () or {} or []
+
+instead of parenthesis we use indentation
+
+def fun():
+   print("Hello World")
+   print("Hello World")
+   for ():
+        print("Hello World")
+
+print("Hello World") 
+
+Data Types
+----------
+1. Numbers
+
+Bitwise Operators
+------------------
+5  -  0101
+3  -  0011
+      ----
+       0111   - 7
+     ------
+   0101
+   0011
+  ------  
+  0001    - 1
+XOR
+
+1 ^ 1 = 0
+0 ^ 0 = 0
+1 ^ 0 = 1
+0 ^ 1 = 1
+ 0101
+ 0011
+ ----
+ 0110 - 6
+ ----
+<< operator
+0101
+1010 - 10
+
+8 - 1000
+    10000    - 16
+  0101
+  10100  - 20
+   
+  0101
+  0010
+
+Loops and Control Structures
+----------------------------
+Control Structures
+------------------
+Loops
+-----
+1. for loop - start_Val, incr_val, stop_val
+for i in range(1, 11):
+
+for loop is same as foreach loop - depends on a collection of objects
+
+x = 1
+while (x < 10):
+   x += 1
+
+print
+-----
+print(data, sep=, end="\n")
+
+write a code to generate the following 
+
+1
+23
+456
+8910
+
+1 2 3 4 5
+ 1 2 3 4
+  1 2 3
+   1 2
+    1
+   2 1
+  3 2 1
+ 4 3 2 1
+5 4 3 2 1
+
+print all prime numbers between 150 and 50 and also print the count of it
+
+Strings
+-------
+anything that is enclosed in ' ' or " " are considered as strings
+
+STRNGS ARE IMMUTABLE
+---------------------
+
+find
+maketrans, translate
+format
+
+Fact(1) = 1!
+fact(2) = 2!
+
+fact(123) = 1! + 2! + 3!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
