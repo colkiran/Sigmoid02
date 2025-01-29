@@ -1,0 +1,138 @@
+Data Structures
+----------------
+1. List
+2. Dictionary
+3. Tuple
+4. Set
+
+
+List
+------
+lists are similar to arrays
+
+what is an array?
+Collection of homogenous data
+Memory allocation is contagious
+
+Lists are a collection of heterogenous data
+Memory allocation is not contagious
+Lists are ordered collection of data
+Lists are mutable
+lists are subscriptable
+lists are enclosed in [ ]
+
+lst1 = [1, 2, 3, 4, 5]
+
+append - to add one value at a time
+extend - to add more than one value
+remove - remove elements from the list
+pop  - to remove elements from the list - pop 	returns the value that was removed
+copy - copy a list into another list
+sort - sort the list based on the data stored in it
+
+
+https://pythontutor.com/visualize.html#mode=edit
+
+sort
+----
+1. sort - will sort the original list
+2. sorted - take a copy of the list and sort it
+
+Dictionary
+----------
+its also called as associative arrays
+
+ 0    1    2    3    4    5 
+'a', 'b', 'c', 'd', 'e', 'f'
+
+{0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e', 5: 'f'}
+0, 1, 2, 3, 4, 5 -> Keys
+'a', 'b', 'c', 'd', 'e', 'f' - values
+
+Keys
+----
+keys in a dictionary should always be unique
+keys are user defined
+
+stud - {'name': 'Jack', 'age': 24, 'gender': 'male'}
+
+dictionaries are unordered collections
+They are mutable
+they are enclosed in {} with a key and value stored in it.
+
+fromkeys
+setdefault
+clear
+update
+keys
+get
+
+
+Tuples
+------
+tuples are immutable lists
+
+tuples are enclosed in ( )
+
+set
+---
+sets are collection of unique values
+sets are unordered collection
+sets cannot be subscripted (cannot be indexed)
+sets are mutable
+set are enclosed in { }
+
+Functions
+---------
+what are functions?
+
+def fun():
+   print("hello world")
+
+
+recursive calls
+---------------
+1. find the factorial of a number
+2. find the Fibonacci series 
+
+
+
+Time and space complexity -  sorting methods
+---------------------------------------------
+Ajay 	- Merge sort
+Nikhil  - Selection sort
+Vinay   - Bubble sort
+Utkarsh - Quick sort
+Shatanshu - Heap sort
+
+
+Scripting tools
+---------------
+C   - language features
+C++ - OOPS
+
+
+Scope of a variable
+-------------------
+1. global
+2. local
+3. non local
+
+
+Lambdas
+-------
+anonymous function with a single expression
+
+result_of_expression = lambda var1, var2, var3... : expression
+
+map is like a dye - x / 2
+
+
+Decorator
+---------
+
+
+
+
+
+
