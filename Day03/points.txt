@@ -1,0 +1,39 @@
+Hello
+Apples from Ooty
+Hi
+-------------------
+Mera Bharath Mahan
+Oranges from Kanpur
+India is great
+
+
+def fun(x):
+    print(x)
+
+fun(10 + 20)
+
+Write a decorator that calculates the time taken by the function to execute
+
+OOPs
+----
+1. class
+2. object
+3. constructor, destructor
+4. instance variable
+5. methods
+6. class attribute, method
+7. operator overloading
+8. abstract class
+9. inheritance
+10. polymoprphism
+
+
+
+
+
+
+
+
+
+
+
