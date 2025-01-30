@@ -1,0 +1,3 @@
+https://www.datacamp.com/tutorial/making-map-in-python-using-plotly-library-guide
+https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac
+https://plotly.com/python/maps/
