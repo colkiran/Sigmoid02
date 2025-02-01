@@ -1,0 +1,56 @@
+1. Write a Pandas program to create a line plot of the historical stock prices of Alphabet Inc. between two specific dates.
+
+
+2. Write a Pandas program to create a line plot of the opening, closing stock prices of Alphabet Inc. between two specific dates.
+
+
+3. Write a Pandas program to create a bar plot of the trading volume of Alphabet Inc. stock between two specific dates.
+
+
+4. Write a Pandas program to create a bar plot of opening, closing stock prices of Alphabet Inc. between two specific dates.
+
+
+5. Write a Pandas program to create a stacked bar plot of opening, closing stock prices of Alphabet Inc. between two specific dates.
+
+
+6. Write a Pandas program to create a horizontal stacked bar plot of opening, closing stock prices of Alphabet Inc. between two specific dates.
+
+
+7. Write a Pandas program to create a histograms plot of opening, closing, high, low stock prices of Alphabet Inc. between two specific dates.
+
+
+8. Write a Pandas program to create a stacked histograms plot of opening, closing, high, low stock prices of Alphabet Inc. between two specific dates.
+
+
+9. Write a Pandas program to draw a horizontal and cumulative histograms plot of opening stock prices of Alphabet Inc. between two specific dates.
+
+
+10. Write a Pandas program to create a stacked histograms plot of opening, closing, high, low stock prices of Alphabet Inc. between two specific dates with more bins.
+
+
+
+11. Write a Pandas program to create a stacked histograms plot with more bins of opening, closing, high, low stock prices of Alphabet Inc. between two specific dates.
+
+
+12. Write a Pandas program to create a plot of stock price and trading volume of Alphabet Inc. between two specific dates.
+
+
+13. Write a Pandas program to create a plot of Open, High, Low, Close, Adjusted Closing prices and Volume of Alphabet Inc. between two specific dates.
+
+
+14. Write a Pandas program to create a plot of adjusted closing prices, thirty days and forty days simple moving average of Alphabet Inc. between two specific dates.
+
+
+15. Write a  Pandas program to create a plot of adjusted closing prices, 30 days simple moving average and exponential moving average of Alphabet Inc. between two specific dates.
+
+
+16. Write a Pandas program to create a scatter plot of the trading volume/stock prices of Alphabet Inc. stock between two specific dates.
+
+
+17. Write a Pandas program to create a plot to visualize daily percentage returns of Alphabet Inc. stock price between two specific dates.
+
+
+18. Write a Pandas program to plot the volatility over a period of time of Alphabet Inc. stock price between two specific dates.
+
+
+19. Write a Pandas program to create a histogram to visualize daily return distribution of Alphabet Inc. stock price between two specific dates.

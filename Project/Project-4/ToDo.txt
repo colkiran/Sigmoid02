@@ -1,0 +1,20 @@
+Pandas Basics Reference 
+How to read the data from various file formats
+Inspecting the rows and columns in the data
+Iterating thorough the rows of the DataFrame
+Selecting rows based on particular conditions
+Getting quick statistics from the DataFrame
+Sorting the DataFrame
+Adding and dropping columns from the DataFrame
+Changing the order of the columns in the DataFrame
+Saving the modified DataFrame in various file formats
+Selecting whether to include or exclude the index
+Selecting the separator character
+
+Pandas Basics Reference 
+Filtering the data
+Complex filtering operations
+Using Regular Expressions for effective searching
+Changing the data in the rows matching a particular condition
+Aggregate statistics using the .groupby() method
+Working with large amounts of data by working with chunks

@@ -1,0 +1,8 @@
+Solve any two projects
+-----------------------
+
+Read the ToDo.txt file and perform all the tasks save the output file as result and save it with question number as the output file name
+
+
+upload the assessment, assignment and project in a single folder with subfolders added based on the topic. The main folder should be uploaded with your name with initials (so there is no duplicate folder names).
+

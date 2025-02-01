@@ -1,0 +1,54 @@
+1. Write a Pandas program to display the dimensions or shape of the World alcohol consumption dataset. Also extract the column names from the dataset.
+
+2. Write a Pandas program to select first 2 rows, 2 columns and specific two columns from World alcohol consumption dataset.
+
+3. Write a Pandas program to select random number of rows, fraction of random rows from World alcohol consumption dataset.
+
+4. Write a Pandas program to find and drop the missing values from World alcohol consumption dataset.
+
+5. Write a Pandas program to remove the duplicates from 'WHO region' column of World alcohol consumption dataset.
+
+6. Write a Pandas program to find out the alcohol consumption of a given year from the world alcohol consumption dataset.
+
+7. Write a Pandas program to find out the alcohol consumption details in the year '1987' or '1989' from the world alcohol consumption dataset.
+
+8. Write a Pandas program to find out the alcohol consumption details by the 'Americas' in the year '1985' from the world alcohol consumption dataset.
+
+9. Write a Pandas program to find out the alcohol consumption details in the year '1986' where WHO region is 'Western Pacific' and country is 'VietNam' from the world alcohol consumption dataset.
+
+10. Write a Pandas program to find out the alcohol consumption details in the year '1986' or '1989' where WHO region is 'Americas' from the world alcohol consumption dataset.
+
+11. Write a Pandas program to find out the alcohol consumption details in the year '1986' or '1989' where WHO region is 'Americas' or 'Europe' from the world alcohol consumption dataset.
+
+12. Write a Pandas program to find out the 'WHO region, 'Country', 'Beverage Types' in the year '1986' or '1989' where WHO region is 'Americas' or 'Europe' from the world alcohol consumption dataset.
+
+13. Write a Pandas program to find out the records where consumption of beverages per person average >=5 and Bever
+
+14. Write a Pandas program to find out the records where consumption of  beverages per person average >=4 and Beverage Types is Beer, Wine, Spirits from world alcohol consumption dataset.
+
+15. Write a Pandas program to filter the specified columns and records by range from world alcohol consumption dataset.
+
+16. Write a Pandas program to filter those records where WHO region contains "Ea" substring from world alcohol consumption dataset.
+
+17. Write a Pandas program to filter those records where WHO region matches with multiple values (Africa, Eastern Mediterranean, Europe) from world alcohol consumption dataset.
+
+18. Write a Pandas program to filter those records which not appears in a given list from world alcohol consumption dataset.
+
+19. Write a Pandas program to filter all records where the average consumption of beverages per person from .5 to 2.50 in world alcohol consumption dataset.
+
+20. Write a Pandas program to find average consumption of wine per person greater than 2 in world alcohol consumption dataset.
+
+21. Write a Pandas program to filter rows based on row numbers ended with 0, like 0, 10, 20, 30 from world alcohol consumption dataset.
+
+22. Write a Pandas program to select consecutive columns and also select rows with Index label 0 to 9 with some columns from world alcohol consumption dataset.
+
+23. Write a Pandas program to rename all and only some of the column names from world alcohol consumption dataset.
+
+24. Write a Pandas program to find which years have all non-zero values and which years have any non-zero values from world alcohol consumption dataset.
+
+25. Write a Pandas program to filter all columns where all entries present, check which rows and columns has a NaN and finally drop rows with any NaNs from world alcohol consumption dataset.
+
+26. Write a Pandas program to filter all records starting from the 'Year' column, access every other column from world alcohol consumption dataset.
+
+27. Write a Pandas program to filter all records starting from the 2nd row, access every 5th row from world alcohol consumption dataset.
+
